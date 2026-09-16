@@ -1,24 +1,19 @@
-# OINK Starter — the only site configuration file.
-# Change the two marked values first; everything else builds as-is.
-
-title: &siteTitle Kenan Hulusi # CHANGE ME: one shared title for every language
-baseURL: https://mahoni789.github.io/Kenan-Hulusi # CHANGE ME: canonical production URL
+# Minimal single-language profile. Copy this file to ../hugo.yaml to use it.
+title: Kenan Hulusi Koray
+baseURL: https://example.org/
 defaultContentLanguage: tr
 enableGitInfo: true
 enableRobotsTXT: true
-enableEmoji: true
-timeZone: UTC
 
 languages:
   en:
     label: Türkçe
     locale: tr-TR
     weight: 1
-    title: *Kenan Hulusi
+    title: Kenan Hulusi Koray
     params:
-      description: Kenan Hulusi Koray'ın bütün yazıları.
+      description: Kenan Hulusi Koray'ın bütün eserleri.
 
-# OINK's Markdown components depend on these three Goldmark settings.
 markup:
   goldmark:
     renderer:
@@ -38,7 +33,7 @@ outputs:
 params:
   offline_search: true
   copyright:
-    authors: Project contributors
+    authors: Miras
     from_year: 2026
   footer_center_info: ''
   ui:
@@ -46,45 +41,6 @@ params:
     section_index: cards
     blog_index: cards
     sidebar_menu_foldable: true
-    sidebar_icon_policy: groups
-    backlinks: true
-    # theme_color: '#245f94'
-    # typography: system
-    # image_zoom: true
-    # share: [mastodon, linkedin, email, copy]
-    # feedback:
-    #   enable: true
-    #   reasons: true
-
-  # Optional repository links. Uncomment after creating your own repository.
-  # github_repo: https://github.com/OWNER/REPOSITORY
-  # github_branch: main
-
-  # Optional brand assets. The starter already supplies a neutral logo.
-  # logo: icons/logo.svg
-  # wordmark: icons/wordmark.svg
-
-  # Optional Giscus comments. Nothing is loaded until the entire block is set.
-  # comments:
-  #   enable: true
-  #   type: giscus
-  #   giscus:
-  #     repo: OWNER/REPOSITORY
-  #     repoId: R_xxxxxxxxxx
-  #     category: Announcements
-  #     categoryId: DIC_xxxxxxxxxx
-  #     mapping: pathname
-  #     inputPosition: bottom
-  #     theme: auto
-  #     loading: lazy
-
-  # Optional layout choice. Theme defaults remain active while commented.
-  # page_width: wide
-
-# Optional Google Analytics. Production builds only; previews stay untracked.
-# services:
-#   googleAnalytics:
-#     id: G-XXXXXXXXXX
 
 module:
   imports:
