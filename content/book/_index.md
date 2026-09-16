@@ -1,25 +1,17 @@
 ---
-title: Using OINK Starter
-linkTitle: Book
-description: A short, sequential guide from clone to publication.
+title: Roman
+description: Yazarın tek romanı
 type: book
-icon: fa-solid fa-book-open
+icon: fa-solid fa-book
+weight: 30
 book_kind: book
-sidebar_root_for: self
-sidebar_root_link_self: true
-outputs: [HTML, print, markdown]
-menus:
-  main:
-    identifier: book
-    weight: 30
+outputs: [HTML, print, markdown, BookManifest]
 cascade:
   type: book
-  footer_style: slim
-  sidebar_headings: 3
+sidebar_root_for: self
 ---
 
-This short book explains the starter itself. Read it once from beginning to end, then replace it with the long-form guide your project needs.
+> [!NOTE]
+> *Kurun* gazetesinde 01 Ocak - 16 Nisan 1938 tarihleri arasında 75 sayı olarak tefrika edilmiş; kitap halinde ilk defa 2004 yılında yayınlanmıştır (Yay. haz. İnci Enginün, Doğan Kitapçılık).
 
-## Contents {#contents}
-
-{{< book-toc depth=2 >}}
+{{< book-toc depth=3 >}}
