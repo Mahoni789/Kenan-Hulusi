@@ -91,6 +91,5 @@ Son ders…
 
 Ah şu son dersler…
 
-{{< alert >}}
-Daha sonra “Son Ders” adıyla yayımlanmıştır (*Yıldız*, cilt 3 sayı 28, s. 25-26,33)
-{{< /alert >}}
+> [!NOTE]
+> Daha sonra “Son Ders” adıyla yayımlanmıştır (*Yıldız*, cilt 3 sayı 28, s. 25-26,33)
