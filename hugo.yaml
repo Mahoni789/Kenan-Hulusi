@@ -1,6 +1,6 @@
 # Minimal single-language profile. Copy this file to ../hugo.yaml to use it.
 title: Kenan Hulusi Koray
-baseURL: https://example.org/
+baseURL: https://mahoni789.github.io/Kenan-Hulusi/
 defaultContentLanguage: tr
 enableGitInfo: true
 enableRobotsTXT: true
