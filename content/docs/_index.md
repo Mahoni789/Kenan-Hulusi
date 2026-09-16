@@ -1,6 +1,6 @@
 ---
-title: Docs
-description: Learn the project, install it, follow a tutorial, and look up exact behavior.
+title: Eserler
+description: Kenan Hulusi Koray’ın bütün eserleri: Hikaye, roman ve gazete yazıları.
 type: docs
 icon: fa-solid fa-book
 sidebar_root_for: self
