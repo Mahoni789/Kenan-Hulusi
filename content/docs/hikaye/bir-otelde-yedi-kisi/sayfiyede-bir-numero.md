@@ -75,6 +75,5 @@ Yalnız, daha başka bir gün, bir vapurun güvertesinde Miçya’ya rastgelir g
 
 Asfalt yapıldıktan sonra bizim sayfiye ne kadar değişti.
 
-{{< alert >}}
-Daha önce *Yeni Mecmua* dergisinde “Deniz Kızı” adıyla yayımlanmıştır (4 Ağustos 1940, cilt 1, sayı 14).
-{{< /alert >}}
+> [!NOTE]
+> Daha önce *Yeni Mecmua* dergisinde “Deniz Kızı” adıyla yayımlanmıştır (4 Ağustos 1940, cilt 1, sayı 14)
