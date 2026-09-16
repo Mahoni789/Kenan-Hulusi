@@ -6,7 +6,7 @@ enableGitInfo: true
 enableRobotsTXT: true
 
 languages:
-  en:
+  tr:
     label: Türkçe
     locale: tr-TR
     weight: 1
