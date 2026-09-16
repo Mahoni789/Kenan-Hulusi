@@ -1,5 +1,5 @@
 ---
-title: Roman
+title: Osmanoflar
 description: Yazarın tek romanı
 type: book
 icon: fa-solid fa-book
