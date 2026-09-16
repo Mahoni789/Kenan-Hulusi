@@ -87,6 +87,5 @@ Uçurumun kenarındaydım ve aşağıya karanlık bir kuyuya bakar gibi bakıyor
 
 Yolda, kamyonun sert ışığı önünde gece kuşları uçuşuyor, ara sıra bir domuz yavrusunun fırlayıp kaçtığı görülüyordu.
 
-{{< alert >}}
-Daha önce *Yeni Mecmua* dergisinde “Uçurum” adıyla yayımlanmıştır (7 Temmuz 1939, cilt 1, sayı 10).
-{{< /alert >}}
+> [!NOTE]
+> Daha önce *Yeni Mecmua* dergisinde “Uçurum” adıyla yayımlanmıştır (7 Temmuz 1939, cilt 1, sayı 10)
