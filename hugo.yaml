@@ -31,7 +31,6 @@ outputs:
   section: [HTML, RSS, print, markdown]
 
 params:
-  logo: assets/icons/logo.png
   offline_search: true
   copyright:
     authors: Miras
