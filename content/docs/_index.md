@@ -1,6 +1,6 @@
 ---
 title: Eserler
-description: Kenan Hulusi Koray’ın bütün eserleri: Hikaye, roman ve gazete yazıları.
+description: “Kenan Hulusi Koray’ın bütün eserleri: Hikaye, roman ve gazete yazıları.”
 type: docs
 icon: fa-solid fa-book
 sidebar_root_for: self
