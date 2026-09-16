@@ -1,8 +1,8 @@
 ---
-title: “Eserler”
+title: Hikayeler
 description: “Kenan Hulusi Koray’ın bütün eserleri”
 type: docs
-icon: fa-solid fa-book
+icon: fa-solid fa-books
 sidebar_root_for: self
 sidebar_root_link_self: true
 menus:
