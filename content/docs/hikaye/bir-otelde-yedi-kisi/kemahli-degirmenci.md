@@ -88,6 +88,5 @@ Ne dersiniz beyim? Ağları artık denize atalım mı? İsterseniz küreklere si
 
 O gün ikimiz de bir hayli iskorpit avladık.
 
-{{< alert >}}
-Daha önce *Yeni Mecmua* dergisinde “Leke” adıyla yayımlanmıştır (12 Mayıs 1939, cilt 1, sayı 2).
-{{< /alert >}}
+> [!NOTE]
+> Daha önce *Yeni Mecmua* dergisinde “Leke” adıyla yayımlanmıştır (12 Mayıs 1939, cilt 1, sayı 2)
