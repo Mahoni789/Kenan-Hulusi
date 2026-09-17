@@ -1,6 +1,6 @@
 ---
 title: Osmanoflar
-description: Yazarın tek romanı
+description: *Kurun* gazetesinde 01 Ocak - 16 Nisan 1938 tarihleri arasında 75 sayı olarak tefrika edilmiş; kitap halinde ilk defa 2004 yılında yayınlanmıştır (Yay. haz. İnci Enginün, Doğan Kitapçılık)
 type: book
 icon: fa-solid fa-book
 weight: 30
@@ -10,8 +10,5 @@ cascade:
   type: book
 sidebar_root_for: self
 ---
-
-> [!NOTE]
-> *Kurun* gazetesinde 01 Ocak - 16 Nisan 1938 tarihleri arasında 75 sayı olarak tefrika edilmiş; kitap halinde ilk defa 2004 yılında yayınlanmıştır (Yay. haz. İnci Enginün, Doğan Kitapçılık).
 
 {{< book-toc depth=3 >}}
